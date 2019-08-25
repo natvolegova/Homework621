@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework621</string>
+    <array name="image_name">
+        <item>Первая фотография</item>
+        <item>Вторая фотография</item>
+        <item>Третья фотография</item>
+    </array>
+    <array name="image_src">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+    </array>
+</resources>
